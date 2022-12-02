@@ -12,7 +12,5 @@ int main(){
     printf("Quadruple of a is: %d",4*a);
 //edited4
 //edited5
-    printf("sextuple of a is: %d",6*a);
-//edited6
     return 0;
 }
