@@ -6,7 +6,8 @@ int main(){
     scanf("%d",&a);
     printf("twice of a is: %d",2*a);
 //edited1
-    printf("%d",3*a);
+    printf("triple of a is: %d",3*a);
 //edited2
+//edited3
     return 0;
 }
