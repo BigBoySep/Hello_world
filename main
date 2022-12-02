@@ -9,8 +9,7 @@ int main(){
     printf("triple of a is: %d",3*a);
 //edited2
 //edited3
-    printf("Quadruple of a is: %d",4*a);
+    printf("%d",4*a);
 //edited4
-//edited5
     return 0;
 }
