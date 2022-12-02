@@ -9,10 +9,13 @@ int main(){
     printf("triple of a is: %d",3*a);
 //edited2
 //edited3
+<<<<<<< HEAD
     printf("Quadruple of a is: %d",4*a);
 //edited4
 //edited5
     printf("sextuple of a is: %d",6*a);
 //edited6
+=======
+>>>>>>> parent of 1c5937b (Update main)
     return 0;
 }
